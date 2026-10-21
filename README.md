@@ -28,6 +28,12 @@ Brief coaching for your 17Lands drafts: what to pick, what to avoid, and why.
    Your coach account's access and usage limits apply.
 
 4. **[Start a practice draft](https://www.17lands.com/mock_draft)** in Chrome. Log in, choose a set, and click **Start!**
-5. **Click Capture + Coach**, allow Chrome access and Screen Recording, then turn on **Auto-coach every pick** for automatic advice. If needed, enable Draft Coach under **System Settings → Privacy & Security → Screen Recording**, then quit and reopen the app.
+5. **Get coaching:**
+
+   - Click **Capture + Coach**.
+   - Allow **Google Chrome access** and **Screen Recording** when prompted.
+   - Turn on **Auto-coach every pick** for automatic advice.
+
+   **Screen capture blocked?** Go to **System Settings → Privacy & Security → Screen Recording**, enable **Draft Coach**, then quit and reopen the app.
 
 Keep the draft tab active in Chrome and make your picks yourself on 17Lands. For manual coaching, press **Control–Option–D**.
