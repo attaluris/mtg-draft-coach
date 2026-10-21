@@ -1,0 +1,9 @@
+build/
+dist/
+*.log
+.DS_Store
+.env
+.env.*
+*.zip
+*.dmg
+*.jsonl
