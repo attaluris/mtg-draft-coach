@@ -4,7 +4,7 @@ Brief coaching for your 17Lands drafts: what to pick, what to avoid, and why.
 
 ![Draft Coach beside a 17Lands draft, showing a recommended pick, ranked alternatives, and a drafting lesson.](docs/images/draft-coach-example.png)
 
-**Requires:** an Apple Silicon Mac (M1+), macOS 14+, Google Chrome, and access to Claude Code or a compatible local Codex installation.
+**Requires:** an Apple Silicon Mac (M1+), macOS 14+, Google Chrome, and **Claude Code CLI or compatible local Codex already installed and signed in**. Claude desktop alone isn't enough.
 
 ## Get started
 
@@ -12,14 +12,7 @@ Brief coaching for your 17Lands drafts: what to pick, what to avoid, and why.
 2. **Open Draft Coach.** If macOS blocks it and you trust the app, go to **System Settings → Privacy & Security → Open Anyway**.
 3. **Connect a coach — choose one:**
 
-   **Claude:** open **Terminal** and paste these commands (skip the first if Claude Code is already installed):
-
-   ```sh
-   curl -fsSL https://claude.ai/install.sh | bash
-   "$HOME/.local/bin/claude"
-   ```
-
-   Follow the sign-in prompts, then choose **Claude** in Draft Coach.
+   **Claude:** choose **Claude** in Draft Coach's top-right menu. It uses your existing Claude Code login and creates the coaching conversation automatically.
 
    **Codex:** open a local chat in the Codex app on this Mac and paste:
 
