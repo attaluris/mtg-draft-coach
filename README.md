@@ -2,6 +2,8 @@
 
 Brief coaching for your 17Lands drafts: what to pick, what to avoid, and why.
 
+![Draft Coach beside a 17Lands draft, showing a recommended pick, ranked alternatives, and a drafting lesson.](docs/images/draft-coach-example.png)
+
 **Requires:** an Apple Silicon Mac (M1+), macOS 14+, Google Chrome, and access to Claude Code or a compatible local Codex installation.
 
 ## Get started
